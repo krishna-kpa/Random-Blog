@@ -1,4 +1,6 @@
 # Random Blog
+A basic react application for reading, writing and deleting blogs.
+Learning react basics.
  ## React Hooks used
 1. useState
 2. useEffect
@@ -19,3 +21,7 @@
 4. Open in Browser 'http://localhost:3000/'
 ## Sample Screen Shorts
 ![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/1.png)
+![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/2.png)
+![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/3.png)
+![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/4.png)
+![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/5.png)
