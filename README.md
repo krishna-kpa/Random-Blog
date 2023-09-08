@@ -20,8 +20,13 @@ Learning react basics.
 3. Then start the React using 'npm start'
 4. Open in Browser 'http://localhost:3000/'
 ## Sample Screen Shorts
+1. First View
 ![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/1.png)
+2. Add Blog
 ![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/2.png)
+3. Added View
 ![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/3.png)
+4. Viewing Blogs individually
 ![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/4.png)
+5. After Deletion View
 ![alt text](https://github.com/krishna-kpa/Random-Blog/blob/main/sample%20ss/5.png)
